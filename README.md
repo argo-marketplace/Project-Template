@@ -3,10 +3,10 @@ v0.1 Nov 4 2017
 
 *Copy this spec to start a new argo-marketplace project*
 
-SEEKERS: Usually a public institution that is seeking tech talent to address a need or solve a problem.
-SOLVERS: Public Technologists who mostly agree with a [Manifesto for public technology](civichall.org/civicist/manifesto-for-public-technology/)
-ARGO: A non-profit organization that shepherds the ARGO marketplace. Contact argo@argolabs.org if questions.
-
+- SEEKERS: Usually a public institution that is seeking tech talent to address a need or solve a problem.
+- SOLVERS: Public Technologists who mostly agree with a [Manifesto for public technology](civichall.org/civicist/manifesto-for-public-technology/)
+- ARGO: A non-profit organization that shepherds the ARGO marketplace. Contact argo@argolabs.org if questions.
+---
 # Define Purpose 
 
 - **Why are we doing this project? What specific problem are we addressing?**
@@ -22,14 +22,14 @@ ARGO: A non-profit organization that shepherds the ARGO marketplace. Contact arg
 	- *If this problem is solved, how do you envision this is scaled up to cover a citywide strategy.*
 - **Some lit. review or.addl resources.**
 	- *Links to news articles or research papers to help a potential solver or a google doc providing extended explanations.*
-
+---
 # Define Process
 
 - If a SOLVER needs to ask a question, they open a [new issue](https://github.com/argo-marketplace/test-project/issues) and label it appropriately. It is highly recommended that SEEKERs commit to answering questions and close issues in a timely manner.
 - SEEKERs may also open issues and leave it open to simulate a FAQ
 - SOLVERS are encouraged to for a project repo and issue pull requests once they have prepared a solution that is fully executable and readable.
 - ARGO and SEEKERS will collaborate to update the repo with content that is deemed useful to SOLVERs.
-
+---
 # Suggested repo folders
 - `Data`
 	- *Contains datasets provided by SEEKERS to help SOLVERS*
