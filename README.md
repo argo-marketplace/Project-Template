@@ -26,11 +26,12 @@ v0.1 Nov 4 2017
 - ARGO and SEEKERS will collaborate to update the repo with content that is deemed useful to SOLVERs.
 
 # Suggested repo folders
-- Data
+- `Data`
 	- *Contains datasets provided by SEEKERS to help SOLVERS*
-- Research
+
+- `Research/Literature`
 	- *A place to upload research papers, news articles or additional literature review to help SOLVERS better understand the scope of the problem and provide as much context as possible. This should ideally be maintained by SEEKERS but SOLVERS may also contribute.*
 
-- Source
+- `Source`
 	- *This is a place for both SOLVERS and SEEKERS. This folder or sub-folder(s) can contain **readable & executable code**, Tableau workbooks etc.
 
