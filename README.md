@@ -1,4 +1,4 @@
-#Dirt simple StDC project spec:
+# Dirt simple StDC project spec:
 v 0.1
 *Copy this spec to start a new argo-marketplace project*
 
