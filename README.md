@@ -4,9 +4,9 @@ v0.1 Nov 4 2017
 *Copy this spec to start a new argo-marketplace project*
 
 # Roles
-- SEEKERS: Usually a public institution that is seeking tech talent to address a need or solve a problem.
-- SOLVERS: Public Technologists who mostly agree with a [Manifesto for public technology](civichall.org/civicist/manifesto-for-public-technology/)
-- ARGO: A non-profit organization that shepherds the ARGO marketplace. Contact argo@argolabs.org if questions.
+- `SEEKERS`: Usually a public institution that is seeking tech talent to address a need or solve a problem.
+- `SOLVERS`: Technologists who mostly agree with a [Manifesto for public technology](civichall.org/civicist/manifesto-for-public-technology/).
+- `ARGO`: A non-profit organization that shepherds the ARGO marketplace. Contact argo@argolabs.org if questions.
 ---
 # Define Purpose 
 
