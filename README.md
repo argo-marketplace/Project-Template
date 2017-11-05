@@ -16,13 +16,13 @@ v0.1 Nov 4 2017
 - **What questions will this project help answer?**
 	- *Ex: Which streets are worse that others in the city?* OR *Which utilities are achieveing their conservation targets?*
 - **What is this ?** 
-	- *Analysis - Seeker have most data readily available and want to find meaningful insights through robust analysis and viz.*
-	- *Integration - Seeker needs to acquire data from multiple sources and create a sustainable/automated pipeline*
-	- *Discovery - Seeker needs to figure out a way to measure, generate/collect data using low-cost methods (may include surveys, scrapers & sensors).
+	- *Analysis - `SEEKER` have most data readily available and want to find meaningful insights through robust analysis and viz.*
+	- *Integration - `SEEKER` needs to acquire data from multiple sources and create a sustainable/automated pipeline*
+	- *Discovery - `SEEKER` needs to figure out a way to measure, generate/collect data using low-cost methods (may include surveys, scrapers & sensors).
 - **Duration of Project**
 	- *Estimated project completion time.*
 - **Resources.**
-	- *Links to news articles or research papers to help a potential solver or a google doc providing extended explanations.*
+	- *Links to news articles or research papers to help a potential `SOLVER` or a google doc providing extended explanations.*
 - **Possible methods and tools to use**
 	- *Have you tried any methods previously? Did they succeed, fail?*
 	- *Improvements to existing methods?*
