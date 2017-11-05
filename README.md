@@ -16,13 +16,15 @@ v0.1 Nov 4 2017
 - **What is this ?** 
 	- *Is it an algorithm, a visualization, a parser, a scraper, a simulation, a map?*
 	- *Provide some additional details to help solvers.*
-- **Possible methods.**
+**Some lit. review or.addl resources.**
+	- *Links to news articles or research papers to help a potential solver or a google doc providing extended explanations.*
+- **Possible methods and tools to use **
 	- *Have you tried any methods previously? Did they succeed, fail?*
 	- *Improvements to existing methods?*
-- **Ideal outcome of a solution?**
-	- *If this problem is solved, how do you envision this is scaled up to cover a citywide strategy.*
-- **Some lit. review or.addl resources.**
-	- *Links to news articles or research papers to help a potential solver or a google doc providing extended explanations.*
+	- *A list of tools that can be used*
+- **Solution details**
+	- *What does a completed solution look like?*
+	- *If applicable, how does this solution scale-up up to cover a citywide strategy.*
 ---
 # Define Process
 
