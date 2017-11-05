@@ -23,7 +23,7 @@ v0.1 Nov 4 2017
 	- *Estimated project completion time.*
 - **Resources.**
 	- *Links to news articles or research papers to help a potential solver or a google doc providing extended explanations.*
-- **Possible methods and tools to use **
+- **Possible methods and tools to use**
 	- *Have you tried any methods previously? Did they succeed, fail?*
 	- *Improvements to existing methods?*
 	- *A list of tools that can be used*
