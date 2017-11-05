@@ -13,9 +13,12 @@ v0.1 Nov 4 2017
 - **Why are we doing this project? What specific problem are we addressing?**
 	- *Describe the problem in a few sentences.*
 	- *Specify short and long-term needs that provide context for this problem.*
+- **What questions will this project help answer?**
+	- *Ex: Which streets are worse that others in the city?* OR *Which utilities are achieveing their conservation targets?*
 - **What is this ?** 
-	- *Is it an algorithm, a visualization, a parser, a scraper, a simulation, a map?*
-	- *Provide some additional details to help solvers.*
+	- *Analysis - Seeker have most data readily available and want to find meaningful insights through robust analysis and viz.*
+	- *Integration - Seeker needs to acquire data from multiple sources and create a sustainable/automated pipeline*
+	- *Discovery - Seeker needs to figure out a way to measure, generate/collect data using low-cost methods (may include surveys, scrapers & sensors).
 - **Duration of Project**
 	- *Estimated project completion time.*
 - **Resources.**
