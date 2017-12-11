@@ -3,10 +3,17 @@ v0.1 Nov 4 2017
 
 *Copy this spec to start a new argo-marketplace project*
 
-# Define Roles
+# Who does what?
+
 - `SEEKERS`: Usually a public institution that is seeking tech talent to address a need or solve a problem.
+
 - `SOLVERS`: Technologists who mostly agree with a [Manifesto for public technology](civichall.org/civicist/manifesto-for-public-technology/). SOLVERs can individuals or groups.
+
 - `ARGO`: A non-profit organization that shepherds the ARGO marketplace. Contact argo@argolabs.org if questions.
+
+- `SCRIBE`: During a project, this `SOLVER` role ( will be responsible for maintaining project notes, minutes and ensuring documentation is up to date. This role will need to be filled during Project Kickoff meeting and can be revolved every so often.
+- `OPS`: During a project, this `SOLVER` role will be responsible for ensuring schedules and that the team is able to communicate without issue. The person under this role will organize meetings/conference-calls/hangouts as necessary. This role will need to be filled during Project Kickoff meeting and can be revolved every so often.
+
 ---
 # Define Scope and Purpose 
 
