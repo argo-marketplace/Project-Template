@@ -28,6 +28,9 @@ v0.1 Nov 4 2017
 	- *Discovery - `SEEKER` needs to figure out a way to measure, generate/collect data using low-cost methods (may include surveys, scrapers & sensors).
 - **Duration of Project**
 	- *Estimated project completion time.*
+	- *What do we want to accomplish in this time?*
+	- *What is feasible to accomplish during this time based on the project team?*
+	
 - **Resources.**
 	- *Links to news articles or research papers to help a potential `SOLVER` or a google doc providing extended explanations.*
 - **Possible methods and tools to use**
